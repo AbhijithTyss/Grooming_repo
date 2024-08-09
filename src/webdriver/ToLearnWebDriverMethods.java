@@ -12,6 +12,7 @@ public class ToLearnWebDriverMethods {
 		
 		String title = driver.getTitle();
 		System.out.println(title);
+		System.out.println(title);
 		
 		String url = driver.getCurrentUrl();
 		System.out.println(url);
